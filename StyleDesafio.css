@@ -1,0 +1,143 @@
+body {
+	text-align: center;
+	background-image: url("multi.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0 auto;
+	
+}
+
+h1 {
+    font-family: 'Georgia';
+	font-size: 50px;
+	color: white;
+	line-height: 300%;
+	text-align: center;
+	background-color: #141414;
+	padding: 30px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 0 15px 10px #141414;
+}
+h3 {
+	font-family: 'Georgia';
+	font-size: 40px;
+	color: white;
+	line-height: 200%;
+	padding: 30px;
+	text-align: center;
+	background-color: #141414;
+	background-position: center;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	word-spacing: 160px;
+	box-shadow: 0 0 15px 10px #141414;
+	
+	
+	
+}
+li {
+	margin: 50px;
+}
+.white {
+
+}
+.div1 {
+		text-align: justify;
+		margin-left: auto;
+		margin-right: auto;
+}		
+.space {
+	    line-height: 150%;
+	    font-size: 18px;
+		font-family: 'Helvetica';
+		color: black;
+		margin-right: 525px;
+		margin-left: 600px;
+		text-align: justify;
+		background-color: white;
+		padding: 30px;
+		box-shadow: 0 0 15px 10px #141414;
+}
+.size {
+	   font-size: 18px;
+	   font-weight: bold;
+	   font-family: 'Georgia';
+	   line-height: 150%;
+	   color: black;
+}
+.center {
+		 display: block;
+		 margin-left: auto;
+		 margin-right: auto;
+		 width: 100%;
+		 box-shadow: 0 0 15px 10px #141414;
+}
+.right {
+		display: inline;
+		float: right;
+		margin-left: auto;
+		margin-right: auto;
+		width: 100%;
+		box-shadow: 0 0 15px 10px #141414;
+}
+.LI {
+		 display: block;
+		 margin-left: auto;
+		 margin-right: auto;
+		 width: 350; 
+		 height: 500;
+		 box-shadow: 0 0 15px 10px #141414;
+		 
+		
+}
+.MI {
+		 display: block;
+		 margin-left: auto;
+		 margin-right: auto;
+		 width: 150; 
+		 height: 225;
+		 margin-right: 0px;
+		 margin-top: 0px;
+		 box-shadow: 0 0 15px 10px #141414;
+
+		
+}
+.INDEX {
+		line-height: 150%;
+	    font-size: 30px;
+		font-weight: bold;
+		font-family: 'Georgia';
+		color: black;
+		margin-right: 600px;
+		margin-left: 600px;
+		text-align: justify;
+		
+}
+.bs {
+		box-shadow: 0 0 15px 10px #141414;
+}	
+.re {
+		display:inline;
+		float: right;
+		
+}	
+table, th, td, tr {
+				border: 2px solid black;
+				width: 100%;
+}
+.a {
+	list-style-type: square;
+	text-align: center;
+}
+.What {
+
+	
+	
+	
+}
+
+
